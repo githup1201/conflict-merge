@@ -1,1 +1,3 @@
 Test text to a merge conflict
+
+Marianne' change
